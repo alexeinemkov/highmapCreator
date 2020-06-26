@@ -17,6 +17,6 @@ Creator High Map for import to game engine.
 
 ### 25/06/2020
 
--add image crop to multiply parts
--add resize parts of image
--add grid and numbers of cells (part cropped) to copy of original image
+- add image crop to multiply parts
+- add resize parts of image
+- add grid and numbers of cells (part cropped) to copy of original image
